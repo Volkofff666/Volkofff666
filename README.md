@@ -1,364 +1,241 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=NOCTO%20AGENCY&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Digital%20Solutions%20%26%20Marketing%20Excellence&descSize=18&descAlignY=55" />
+# NOCTO AGENCY
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Full-Stack+Development+%F0%9F%92%BB;Digital+Marketing+%F0%9F%93%88;Context+Advertising+%F0%9F%8E%AF;Anti-Fraud+Protection+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" /></a>
+### Professional Digital Solutions & Marketing Services
 
-<br>
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/noctoagency)
+[![Email](https://img.shields.io/badge/Email-hello%40nocto.agency-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@nocto.agency)
+[![Location](https://img.shields.io/badge/Location-Yekaterinburg%2C%20Russia-0088CC?style=flat-square&logo=google-maps&logoColor=white)]()
 
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=Volkofff666&label=Profile%20views&color=6366f1&style=for-the-badge)
+---
 
-<!-- Contact Badges -->
-[![Telegram](https://img.shields.io/badge/Telegram-Contact_Us-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/noctoagency)
-[![Email](https://img.shields.io/badge/Email-hello@nocto.agency-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@nocto.agency)
-[![Website](https://img.shields.io/badge/Website-nocto.agency-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)]()
+**Комплексные решения в области веб-разработки, контекстной рекламы и цифрового маркетинга**
 
 </div>
 
----
+## О компании
 
-## 🚀 О нас
+**Nocto Agency** — профессиональное агентство, специализирующееся на разработке технологических решений и предоставлении услуг digital-маркетинга для бизнеса. Наша команда экспертов создает эффективные инструменты и стратегии, направленные на достижение измеримых бизнес-результатов.
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+### Наши преимущества
 
-Мы — **Nocto Agency**, команда экспертов в области веб-разработки и цифрового маркетинга.
-
-🎯 **Наша миссия:** Создавать современные технологические решения, которые помогают бизнесу расти и развиваться.
-
-💡 **Наш принцип:** Результат > Процесс
-
-<br clear="right"/>
+- **Ориентация на результат** — каждый проект оценивается по ключевым метрикам ROI и KPI
+- **Технологическая экспертиза** — используем современный стек технологий и проверенные методологии
+- **Прозрачность** — предоставляем детальную аналитику и регулярную отчетность
+- **Индивидуальный подход** — разрабатываем решения под конкретные задачи бизнеса
 
 ---
 
-## 💼 Наши услуги
-
-<table>
-<tr>
-<td width="50%" valign="top">
+## Услуги
 
 ### 🎯 Контекстная реклама
 
-```yaml
-Услуги:
-  - Настройка Яндекс.Директ
-  - Оптимизация кампаний
-  - Защита от кликфрода
-  - A/B тестирование
-Результат: До 340% роста конверсий
-```
+Профессиональная настройка и ведение рекламных кампаний в Яндекс.Директ с фокусом на оптимизацию затрат и повышение конверсии.
 
-</td>
-<td width="50%" valign="top">
+**Что входит:**
+- Аудит и разработка стратегии рекламных кампаний
+- Настройка таргетинга и создание объявлений
+- Оптимизация ставок и бюджетов
+- A/B тестирование креативов и посадочных страниц
+- Защита от кликфрода и нецелевого трафика
+- Регулярная аналитика и отчетность
+
+**Результаты:** Увеличение конверсий до 340%, снижение стоимости лида на 45%
 
 ### 🔍 SEO продвижение
 
-```yaml
-Услуги:
-  - Технический аудит
-  - Оптимизация контента
-  - Внутренняя оптимизация
-  - Аналитика и отчёты
-Результат: TOP-10 по ключевым запросам
-```
+Комплексное продвижение сайтов в поисковых системах для увеличения органического трафика и улучшения позиций по целевым запросам.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Что входит:**
+- Технический аудит сайта
+- Разработка семантического ядра
+- Внутренняя оптимизация (on-page SEO)
+- Работа с внешними факторами (off-page SEO)
+- Оптимизация контента
+- Мониторинг позиций и аналитика
+
+**Результаты:** Вывод в ТОП-10 по высокочастотным запросам, рост органического трафика
 
 ### 💻 Веб-разработка
 
-```yaml
-Услуги:
-  - Корпоративные сайты
-  - Лендинги и промо
-  - CRM-системы
-  - API интеграции
-Результат: PageSpeed 98/100
-```
+Разработка современных веб-приложений, корпоративных сайтов и специализированных систем с использованием передовых технологий.
 
-</td>
-<td width="50%" valign="top">
+**Что входит:**
+- Корпоративные сайты и landing pages
+- Веб-приложения и SaaS-платформы
+- CRM-системы и панели управления
+- Интеграция с внешними сервисами и API
+- Адаптивный дизайн и кроссбраузерность
+- Техническая поддержка и развитие
 
-### 🛡️ Защита рекламы
+**Результаты:** PageSpeed 95+, быстрая загрузка, масштабируемая архитектура
 
-```yaml
-Услуги:
-  - NoctoClick антифрод
-  - Мониторинг 24/7
-  - Защита бюджета
-  - Аналитика трафика
-Результат: Экономия 150K₽/мес
-```
+### 🛡️ Защита рекламных кампаний
 
-</td>
-</tr>
-</table>
+Разработка и внедрение систем защиты рекламного бюджета от кликового мошенничества и нецелевого трафика.
+
+**Что входит:**
+- Внедрение антифрод системы NoctoClick
+- Мониторинг трафика в режиме реального времени
+- Автоматическая блокировка подозрительных кликов
+- Детальная аналитика качества трафика
+- Интеграция с рекламными платформами
+- Регулярные отчеты по экономии бюджета
+
+**Результаты:** Блокировка до 28% нецелевых кликов, экономия 150,000₽/месяц
 
 ---
 
-## 🛠️ Технологический стек
+## Технологический стек
 
-<div align="center">
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-### Frontend Development
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-![Next.js](https://img.shields.io/badge/Next.js_14+-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-### Backend Development
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### Marketing & Analytics
-
-![Yandex](https://img.shields.io/badge/Yandex_Direct-FF0000?style=for-the-badge&logo=yandex&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
-![Metrika](https://img.shields.io/badge/Yandex_Metrika-FF0000?style=for-the-badge&logo=yandex&logoColor=white)
-
-</div>
+![Yandex.Direct](https://img.shields.io/badge/Yandex.Direct-FF0000?style=flat-square&logo=yandex&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white)
+![Yandex.Metrika](https://img.shields.io/badge/Yandex.Metrika-FF0000?style=flat-square&logo=yandex&logoColor=white)
 
 ---
 
-## 📊 GitHub Статистика
+## Проекты
 
-<div align="center">
+### NoctoClick — Система защиты от кликфрода
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Volkofff666&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Volkofff666&theme=tokyonight&hide_border=true" />
+[![Repository](https://img.shields.io/badge/Repository-NoctoClick-181717?style=flat-square&logo=github)](https://github.com/Volkofff666/NoctoClick)
+![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square)
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Volkofff666&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+Инновационная система защиты рекламных кампаний от кликового мошенничества для платформ Яндекс.Директ и VK Ads.
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Volkofff666&theme=tokyo-night&hide_border=true&area=true" />
+**Технологии:** Next.js 14, TypeScript, FastAPI, Docker, PostgreSQL
 
-</div>
-
----
-
-## 📊 Наши проекты
-
-### 🎯 [NoctoClick](https://github.com/Volkofff666/NoctoClick) — Антифрод система
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Volkofff666&repo=NoctoClick&theme=tokyonight&hide_border=true)](https://github.com/Volkofff666/NoctoClick)
-
-</div>
-
-> 🛡️ Инновационная система защиты рекламных кампаний от кликового мошенничества для Яндекс.Директ и VK Ads
-
-**Технологии:** Next.js 14+ • TypeScript • FastAPI • Docker  
-**Статус:** 🚧 В разработке
-
-**Ключевые возможности:**
-- ⚡ Анализ кликов в реальном времени
-- 🔍 Определение подозрительной активности
-- 🛡️ Автоматическая блокировка ботов
-- 📊 Детальная статистика и отчёты
-- 🔗 Интеграция с рекламными платформами
+**Функциональность:**
+- Анализ кликов в режиме реального времени
+- Машинное обучение для выявления подозрительной активности
+- Автоматическая блокировка ботов и фродовых источников
+- Детальная статистика и визуализация данных
+- REST API для интеграции с рекламными платформами
+- Система уведомлений и отчетов
 
 ---
 
-## 🏆 Кейсы и результаты
+## Кейсы
 
-<details>
-<summary>🎯 <b>Контекстная реклама — Рост конверсий на 340%</b></summary>
+### Кейс №1: Оптимизация контекстной рекламы для B2B сектора
 
-<br>
+**Задача:** Повышение эффективности рекламных кампаний в Яндекс.Директ при сохранении бюджета
 
-### 🎯 Задача
-Оптимизация рекламных кампаний в Яндекс.Директ для B2B клиента
+**Решение:**
+- Проведен комплексный аудит текущих кампаний
+- Реструктуризация рекламных объявлений и ключевых фраз
+- Внедрена система защиты от кликфрода
+- Настроена сквозная аналитика и отслеживание конверсий
+- Проведено A/B тестирование посадочных страниц
 
-### 🛠️ Решение
-- ✅ Проведён комплексный аудит существующих кампаний
-- ✅ Переработана структура объявлений и ключевых слов
-- ✅ Внедрена система защиты от кликфрода
-- ✅ Настроена детальная аналитика и отслеживание конверсий
+**Результаты:**
 
-### 📊 Результат
-
-| Метрика | Было | Стало | Рост |
-|---------|------|--------|------|
+| Метрика | До оптимизации | После оптимизации | Изменение |
+|---------|----------------|-------------------|-----------|
 | CTR | 2.1% | 5.9% | +180% |
-| Конверсии | 1.8% | 7.9% | +340% |
+| Конверсия | 1.8% | 7.9% | +340% |
 | Стоимость лида | 2,500₽ | 1,375₽ | -45% |
 | ROI | 120% | 420% | +250% |
 
-</details>
+---
 
-<details>
-<summary>💻 <b>Веб-разработка — Корпоративный сайт с интеграциями</b></summary>
+### Кейс №2: Разработка корпоративного сайта с интеграциями
 
-<br>
+**Задача:** Создание современного корпоративного сайта с CRM-системой и аналитикой
 
-### 🎯 Задача
-Создание современного корпоративного сайта с интеграцией CRM и аналитики
+**Решение:**
+- Разработан адаптивный сайт на Next.js с серверным рендерингом
+- Интегрирована CRM-система через REST API
+- Настроена система аналитики и отчетности
+- Оптимизирована производительность (Core Web Vitals)
+- Реализована многоязычность и SEO-оптимизация
 
-### 🛠️ Решение
-- ✅ Разработан адаптивный сайт на Next.js
-- ✅ Интегрирована CRM-система через API
-- ✅ Настроена система аналитики и отчётности
-- ✅ Оптимизирована скорость загрузки (Core Web Vitals)
-
-### 📊 Результат
-
-```diff
-+ Скорость загрузки: 0.8 сек
-+ Google PageSpeed Score: 98/100
-+ Полностью адаптивный дизайн
-+ Автоматизация бизнес-процессов
-+ 100% удовлетворённость клиента
-```
-
-</details>
-
-<details>
-<summary>🛡️ <b>Антифрод система — Экономия рекламного бюджета</b></summary>
-
-<br>
-
-### 🎯 Задача
-Защита рекламного бюджета от кликового мошенничества
-
-### 🛠️ Решение
-- ✅ Разработана и внедрена система NoctoClick
-- ✅ Настроен мониторинг подозрительной активности
-- ✅ Автоматическая блокировка нецелевого трафика
-- ✅ Интеграция с Яндекс.Директ API
-
-### 📊 Результат
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-**28%**
-
-Нецелевых<br>кликов<br>заблокировано
-
-</td>
-<td align="center" width="25%">
-
-**150K₽**
-
-Экономия<br>бюджета<br>в месяц
-
-</td>
-<td align="center" width="25%">
-
-**+65%**
-
-Качество<br>трафика<br>увеличено
-
-</td>
-<td align="center" width="25%">
-
-**+89%**
-
-Рост<br>конверсий<br>получен
-
-</td>
-</tr>
-</table>
-
-</details>
+**Результаты:**
+- Google PageSpeed Score: 98/100
+- Время загрузки: 0.8 секунды
+- Полностью адаптивный дизайн для всех устройств
+- Автоматизация бизнес-процессов
+- 100% удовлетворенность заказчика
 
 ---
 
-## 🎓 Наша экспертиза
+### Кейс №3: Внедрение антифрод системы
 
-```typescript
-const noctoAgency: Agency = {
-  name: "Nocto Agency",
-  location: "Yekaterinburg, Russia 🇷🇺",
-  founded: 2024,
-  
-  services: [
-    "🎯 Контекстная реклама",
-    "🔍 SEO продвижение", 
-    "💻 Веб-разработка",
-    "🛡️ Защита от кликфрода",
-    "🎨 UI/UX дизайн",
-    "🛠️ Техническая поддержка"
-  ],
-  
-  techStack: {
-    frontend: ["Next.js", "Vue.js", "React", "TypeScript"],
-    backend: ["Python", "FastAPI", "Node.js"],
-    database: ["PostgreSQL", "Redis"],
-    devops: ["Docker", "Vercel", "Git"],
-    marketing: ["Yandex.Direct API", "Analytics"]
-  },
-  
-  principles: [
-    "🎯 Фокус на результат и ROI",
-    "💡 Инновационные технологии",
-    "📊 Прозрачная аналитика",
-    "🚀 Быстрое внедрение",
-    "🛡️ Гарантия качества"
-  ],
-  
-  currentlyWorking: [
-    "NoctoClick - Anti-fraud system",
-    "Client projects",
-    "Open source contributions"
-  ]
-};
-```
+**Задача:** Защита рекламного бюджета от кликового мошенничества
+
+**Решение:**
+- Разработана и внедрена система NoctoClick
+- Настроен мониторинг всех источников трафика
+- Реализована автоматическая блокировка подозрительных IP
+- Интеграция с Яндекс.Директ API для управления ставками
+- Создана система отчетности и уведомлений
+
+**Результаты:**
+- **28%** нецелевых кликов заблокировано
+- **150,000₽** экономия бюджета в месяц
+- **+65%** улучшение качества трафика
+- **+89%** рост конверсий за счет очистки трафика
 
 ---
 
-## 💬 Связаться с нами
+## GitHub статистика
 
 <div align="center">
 
-### 🚀 Готовы начать проект?
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Volkofff666&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
 
-📧 **Email:** [hello@nocto.agency](mailto:hello@nocto.agency)  
-💬 **Telegram:** [@noctoagency](https://t.me/noctoagency)  
-🌐 **Website:** nocto.agency  
-📍 **Location:** Yekaterinburg, Russia
-
-<br>
-
-### 🌟 Давайте создадим что-то великолепное вместе!
-
-[![GitHub followers](https://img.shields.io/github/followers/Volkofff666?style=social&label=Follow)](https://github.com/Volkofff666)
-[![GitHub User's stars](https://img.shields.io/github/stars/Volkofff666?style=social&label=Stars)](https://github.com/Volkofff666?tab=repositories)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Volkofff666&layout=compact&theme=default&hide_border=true&langs_count=8)
 
 </div>
 
 ---
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+## Контакты
+
+### Связаться с нами
+
+**Email:** hello@nocto.agency  
+**Telegram:** @noctoagency  
+**Веб-сайт:** nocto.agency  
+**Локация:** Екатеринбург, Россия
+
+### Режим работы
+
+Понедельник — Пятница: 09:00 — 18:00 (UTC+5)  
+Суббота — Воскресенье: По договоренности
+
+---
 
 <div align="center">
 
-**Made with ❤️ by Nocto Agency**
+**© 2024 Nocto Agency. Профессиональные решения для вашего бизнеса.**
 
-*Turning ideas into reality since 2024*
+[![Profile Views](https://komarev.com/ghpvc/?username=Volkofff666&label=Просмотров%20профиля&color=0088cc&style=flat-square)](https://github.com/Volkofff666)
 
 </div>
