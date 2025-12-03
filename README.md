@@ -106,6 +106,12 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
+### CMS & Platforms
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Tilda](https://img.shields.io/badge/Tilda-000000?style=flat-square&logo=tilda&logoColor=white)
+![1C-Bitrix](https://img.shields.io/badge/1C--Bitrix-0039A6?style=flat-square&logo=1c&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+
 ### DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -134,7 +140,7 @@
 **Функциональность:**
 - Анализ кликов в режиме реального времени
 - Машинное обучение для выявления подозрительной активности
-- Автоматическая блокировка ботов и фродовых источников
+- Автоматическая блокировкаботов и фродовых источников
 - Детальная статистика и визуализация данных
 - REST API для интеграции с рекламными платформами
 - Система уведомлений и отчетов
@@ -204,13 +210,23 @@
 
 ---
 
-## GitHub статистика
+## GitHub активность
 
 <div align="center">
+
+### Статистика
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Volkofff666&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Volkofff666&layout=compact&theme=default&hide_border=true&langs_count=8)
+
+### График коммитов
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Volkofff666&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity)
+
+### Серия активности
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Volkofff666&theme=default&hide_border=true)
 
 </div>
 
