@@ -1,103 +1,60 @@
-# 🚀 NOCTO Agency
+# NOCTO Agency
 
-> Профессиональные цифровые решения для вашего бизнеса
+> Professional Digital Solutions & Cybersecurity
 
----
+Stratегические решения в области веб-разработки, контекстной рекламы и защиты от мошенничества. Yekaterinburg, Russia.
 
-## 👋 О нас
+## Core Services
 
-Мы разрабатываем масштабируемые веб-приложения, ускоряем рост вашего бизнеса через стратегический маркетинг и защищаем рекламный бюджет от мошенничества.
+**Search & Marketing**
+- SEO & organic traffic optimization
+- Context advertising (Yandex.Direct) management
+- Campaign analytics and reporting
 
-📍 **Екатеринбург, Россия**
+**Web Development**
+- Modern web applications and SaaS platforms
+- Full-stack solutions with Next.js & FastAPI
+- High-performance architecture
 
-### Наши услуги
+**Fraud Prevention**
+- Real-time click fraud detection
+- Traffic quality monitoring and analysis
+- Automated threat blocking systems
 
-- 🔍 **SEO & Органический трафик** — вывод в ТОП поисковых систем
-- 📊 **Контекстная реклама** — оптимизация кампаний Яндекс.Директ
-- 💻 **Веб-разработка** — современные приложения и SaaS-платформы
-- 🛡️ **Антифрод-системы** — защита от кликового мошенничества
+## Technology Stack
 
----
+```
+Frontend:  Next.js • React • Vue.js • TypeScript • Tailwind CSS
+Backend:   Python • FastAPI • Node.js • PostgreSQL • Redis
+DevOps:    Docker • Vercel • GitHub • Linux
+CMS:       WordPress • Tilda • WooCommerce
+```
 
-## 🛠 Технологический стек
+## Featured Project: NoctoClick
 
-| Frontend | Backend | DevOps | CMS |
-|----------|---------|--------|-----|
-| Next.js • React • Vue.js | Python • FastAPI • Node.js | Docker • Vercel • GitHub | WordPress • Tilda |
-| TypeScript • Tailwind CSS | PostgreSQL • Redis | Linux • Git | WooCommerce |
+Advanced antifraud system for advertising budget protection.
+- Real-time traffic analysis with machine learning
+- Automated blocking of suspicious activity
+- Detailed metrics and performance reporting
 
----
+[View Repository](https://github.com/Volkofff666/NoctoClick)
 
-## ✨ Флагманский проект
+## Case Results
 
-### 🔐 NoctoClick
+| Metric | Before | After | Change |
+|--------|--------|-------|--------|
+| Conversion Rate | 1.8% | 7.9% | +340% |
+| Lead Cost | ₽2,500 | ₽1,375 | -45% |
+| ROI | 120% | 420% | +250% |
+| Fraud Blocked | — | 28% | Active |
 
-> Инновационная система защиты рекламного бюджета от кликового мошенничества
+## Contact
 
-**Возможности:**
-- ⚡ Анализ кликов в реальном времени
-- 🤖 Машинное обучение для выявления фрода
-- 🚫 Автоматическая блокировка подозрительных источников
-- 📈 Подробная аналитика и отчёты
-
-[→ Посмотреть репозиторий](https://github.com/Volkofff666/NoctoClick)
-
----
-
-## 📈 Результаты проектов
-
-| Метрика | До | После | Результат |
-|---------|-----|-------|----------|
-| **Конверсия** | 1.8% | 7.9% | ⬆️ **+340%** |
-| **Стоимость лида** | ₽2,500 | ₽1,375 | ⬇️ **-45%** |
-| **ROI** | 120% | 420% | ⬆️ **+250%** |
-| **Заблокировано фрода** | — | 28% | ✅ **Активно** |
-
----
-
-## 📞 Свяжитесь с нами
-
-<table>
-<tr>
-<td>
-
-**Email**
-
-[hello@nocto.agency](mailto:hello@nocto.agency)
-
-</td>
-<td>
-
-**Telegram**
-
-[@noctoagency](https://t.me/noctoagency)
-
-</td>
-</tr>
-<tr>
-<td>
-
-**Сайт**
-
-[nocto.agency](https://nocto.agency)
-
-</td>
-<td>
-
-**Город**
-
-Екатеринбург 🇷🇺
-
-</td>
-</tr>
-</table>
+**Email:** [hello@nocto.agency](mailto:hello@nocto.agency)  
+**Telegram:** [@noctoagency](https://t.me/noctoagency)  
+**Web:** [nocto.agency](https://nocto.agency)  
+**Location:** Yekaterinburg, Russia
 
 ---
 
-<div align="center">
-
-**© 2024 Nocto Agency**
-
-*Стратегические цифровые решения для развития вашего бизнеса* 💡
-
-</div>
+© 2024 NOCTO Agency. Strategic Digital Solutions for Business Growth.
